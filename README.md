@@ -7,7 +7,7 @@
 I'm a blockchain engineer with a strong interest in distributed system and database.
 
 - 🌱 I’m currently learning `Blockchain` / `Distributed System` / `Database`.
-- 📫 How to reach me: [email](mailto:koushiro.cqx@gmail.com) / [telegram](https://t.me/koushiro) / [twitter](https://twitter.com/ikoushiro).
+- 📫 How to reach me: [email](mailto:koushiro.cqx@gmail.com).
 - ⚡ Fun fact: I'm a DD.
 
 <!--
